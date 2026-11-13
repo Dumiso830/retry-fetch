@@ -1,0 +1,16 @@
+{
+  "name": "retry-fetch",
+  "version": "1.0.0",
+  "description": "A JavaScript library that makes browser fetch requests retry with exponential backoff",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "fetch",
+    "retry",
+    "exponential-backoff"
+  ],
+  "author": "Qwen",
+  "license": "MIT"
+}
